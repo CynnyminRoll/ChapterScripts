@@ -1,0 +1,1460 @@
+label presplit: 
+#sel Selina
+#ali Alice
+#fel Felix
+#ben Ben
+#inr Interviewer
+#wal Walsh
+#tab Tablet
+#mis Mission Control
+#qu1 ??? 1
+#qu2 ??? 2
+#sd scene transition
+#td transition
+#cd character transition
+    scene startcave1 with sd
+    "The light in the tunnel ahead oscillates slowly with an unnatural blue."
+    "There shouldn’t be any natural light in these caves."
+    "After so long, carrying my comrade through these caves."
+    "The first sign of technology."
+    "I don’t know what company tech would glow like this."
+    "But whatever it is, I hope it just ends this suffering."
+    "I jump through when the light turns off and look around with my flashlight."
+    scene startcave2 with td
+    "Aha."
+    "It’s some strange trapezoidal device."
+    "I can’t really ID it. But it has to be company tech right?"
+    "There’s a large button on the top, I guess there’s nothing to do but press it."
+    "The button pops back out, and some light emits from the slits now visible on the side of" the button.
+    "Nothing else happens for a good moment."
+    "Maybe this thing is a beacon of some sort?"
+    "My curiosity gets the better of me and I press the button a few more times."
+    scene startcave3 with td
+    "A blinding light emits from the slits of the device and I fall backward onto my comrade."
+    "For a split second, I can feel my body start to melt."
+    scene black with sd
+    scene interview with sd
+    "I jolt awake as my head falls back, remembering that I’m waiting for the results of this interview."
+    "Wow, that dream felt real, my arms tingling as if they were burning."
+    "I look around, the interviewer is still out."
+    "The clock reads 8:30."
+    "It’s been like twenty-five minutes, do other companies take this long to make a" "decision?"
+    "What was the dream about again? Oops."
+    "Should have written it down, but again, would not look good for the employer to see me" on my phone.
+    "I slouch back down in my seat."
+    "The air has a low hum to it. You can almost feel the machines working to keep this" "place running."
+    "I’ve never really been on a space station like this before."
+    "From the glimpse I got from the shuttle earlier, this place is absolutely huge. "
+    "Everything exists within this massive station."
+    "Wonder what would happen if something were to break in here."
+    "Probably not a good thing to think about."
+    "The door opens next to me, and the interview guy walks in and sits down across the desk."
+    inr "Congratulations, Miss, the board has given your application full approval. The last thing you need is to read through this contract and sign below."
+    "He pushes a stack of stapled papers toward me."
+    "It’s a whole booklet of terms and conditions, but there’s no way I’m reading the whole thing."
+    inr "We should hurry, you will have some things to do before tomorrow."
+    "Alrighty then."
+    "… anything provided by the R&D sector must not be distributed outside company property…"
+    "Oui…"
+    "… unauthorized use of firearms aboard the station will result in termination…"
+    "Uh-huh…"
+    "… the board of directors will decide on worker promotion…"
+    "Yeah whatever, sounds about right."
+    "The guy notices that I’m just flipping through the document."
+    inr "Just sign right there."
+    "I hastily write down my name. "
+    inr "Well, it is my honor to welcome you to The Descension Corporation, Miss Marin."
+    "He shakes my hand."
+    "Here we go, can’t turn back now."
+    "Sigh."
+    inr "Walsh will escort you to your quarters and answer any further questions you may have."
+    "A scrawny mink holding some paper appears out of the corner of the room."
+    "How did I not notice him there? I guess he snuck in behind the interviewer."
+    "The mink signals me to the door so I get up and leave."
+    "As soon as the door behind me closes, he snickers at me."
+    wal "So what are you here for?"
+    sel "What do you mean?"
+    wal "You used to be a physicist. You know this job is *physical* right?”"
+    sel"“I mean, I signed up for the more technical parts of the work."
+    wal "That's not what it says on here. You are in the mining department, not R&D."
+    sel "What!?"
+    sel "Are you joking?"
+    "I take his paper, and just like he said…, the mining department."
+    "This can’t be… "
+    sel "What if… it’s the wrong person…"
+    wal "Nah, see right there, Selina Marin, that's you right?"
+    "He’s right, this is my file.
+    sel "I’m supposed to be here to help… study the… you know?"
+    sel "This has got to be a mix-up. Please… how can I fix this?"
+    wal "First of all, no. I don’t know."
+    wal "And second, the boss himself assigned you to this department."
+    sel "Wh- why would the boss of all people care about me? I’m just a new hire."
+    sel "Please, can I at least talk to him about this?"
+    "We stop before the door."
+    wal "No, and you already signed the contract."
+    wal "There is nothing you can do now. It’s too late to change anything today."
+    "He chuckles to himself."
+    "I just made a huge mistake of not reading through the full document, and I’m about to be put into this dangerous line of work."
+    "Merde. Idiote."
+    "The adrenaline continues to run through me."
+    "My hands are getting numb. Come on, Selina, calm down."
+    "We have gone through so much already; this is nothing."
+    "…"
+    "The mink has been waiting for me to calm down."
+    "His posture poses as if he’s taunting me."
+    "He knows I can’t do anything, damn it."
+    "I straighten my back and take a deep breath."
+    sel "Is there anyone else I can talk to about this?"
+    wal "Lady, I’m not paid to care."
+    wal "This is like the boss’ one singular executive action since forever, you probably shouldn’t challenge him."
+    wal "Not that anyone cares what he thinks."
+    "Way to make an impression on a potential coworker. I swear I’m going to ruin this guy."
+    "Who is the boss anyway, every other exec is on the website except for him. I’m going to ruin that guy too."
+    "We make our way down the hall and reach a double door."
+    "Through is a set of stairs, and make our way down in awkward silence."
+    "Honestly, I’m tempted to just ditch this douche and find where I live myself."
+    "The mink steps forward, and the door opens into what seems like a recreational area. There are only a few people scattered around."
+    "People are probably resting. I think their work season starts tomorrow."
+    "I guess it’s my work season now, too."
+    wal "Let’s see where you’ll be staying this season."
+    "He leads me down the stairs and crosses the large foyer to some hallways."
+    "We pass a bunch of people socializing, none of whom seem to care about our presence."
+    wal "Room 207, here we are."
+    "He scans something hooked to his belt on the scanner, and the room door opens."
+    "A shirtless lynx is lying on the bed to my left, and his side of the room is full of boxes."
+    "Our presence seemed to be very unexpected."
+    "He scrambles to put something on."
+    wal "So you’ll be sharing this room with Felix. We had people pack the rest of your stuff, which will be moved here in an hour. And you probably should claim your gear by the armory desk tonight."
+    "Oh. Not like I have much stuff anyway."
+    "It’s nice, I guess."
+    sel "Alright, thank you, sir."
+    "These are the most polite words I can say."
+    "I actually think he’s way younger than me."
+    "He just waves his hand at me."
+    wal "Loosen up, Marin. It’s not that serious."
+    wal "Get to know your roommate before the season starts."
+    wal "Hey, kitty, show this gal around."
+    "The mink heads back through the hall."
+    "The room isn’t too big, with two beds separated by a wall and enough space for a desk and shelf."
+    "The right side of the room is not entirely empty, there are small trinkets placed around as if someone used to live there."
+    "I wonder if they’re this guy’s stuff. I might have to ask him to move it."
+    sel "Hey, I’m Selina."
+    "The lynx doesn’t respond right away."
+    "He looks at me with a focused look, and the longest 5 seconds of my life pass."
+    fel "Call me Felix."
+    fel "Did that man say they are shipping for you?"
+    sel "Yeah?"
+    fel "Hmm."
+    fel "Everyone here had someone else ship their possessions.”"
+    fel "Why are you the one getting this special treatment?"
+    "He sits up in his bed."
+    sel "Well."
+    sel "I’m not even supposed to be here."
+    sel "The boss seemed to have an interest in me working in mining."
+    sel "I was supposed to be doing R&D."
+    fel "The boss? That coward is not involved with the workers at all."
+    fel "I’ve yet to see his face despite how long I have been here."
+    fel "But fair enough."
+    sel "That’s odd. I assume you’re a miner. What do we do here?"
+    sel "Is it just driving around tunnel borers?"
+    "He slowly turns to stare at me."
+    fel "I assume this is your first time here?"
+    sel "Yes?"
+    fel "Do you have any caving experience?"
+    sel "... no?"
+    fel "That is not good to hear."
+    fel "Why did you get put into Elites before your first assignment? You need to get promoted for this sort of thing."
+    sel "I mean, I’ve seen something about elite work. It’s advertised as exploring the planet for rarer minerals."
+    fel "No, there is much more than that."
+    fel "We are meant to explore more hazardous locations with hostile fauna."
+    "Oh, what?"
+    "Nooooo…"
+    "This situation just keeps getting worse."
+    fel "This is no place for inexperienced people."
+    fel "Those higher-ups better not be filling Elites with rookies to get us killed."
+    fel "After they got that new… ugh."
+    "Is he blaming this on me?"
+    "Felix notices his tone and lowers his voice."
+    fel "The expectations for Elites are very demanding, so watch yourself."
+    "He looks away and winces a bit."
+    fel "My last team did not do so well, and I assume we are assigned the same team for tomorrow."
+    sel "What happened?"
+    sel "..."
+    "He sighs quietly and stands up."
+    fel "It does not matter."
+    "Probably not a good time to ask further."
+    "He walks to the door. "
+    fel "Do you want to start the tour now? Before it gets too late."
+    sel "Yeah, that would be nice."
+    "We leave the room and head to the recreation area. "
+    "Now that I have time to get a good look at it, it’s more open than I expected. There’s a window wall on one side that looks out at the planet."
+    "There are tables scattered about, poker, pool, and some more that I can’t make out."
+    "Felix notices me looking at the tables."
+    fel "These tables were not easy to get.”"
+    fel "The union spent a long time bothering the company to get us some entertainment. Since they are not necessary."
+    fel "After the season starts, this place will get very crowded."
+    "We walk deeper into the room."
+    "The game tables and chairs stop, and the cafeteria benches start lining the room."
+    "It’s way more impressive exploring a huge station in person. I wonder how they did all this."
+    fel "This is the cafeteria. Any meal here is complimentary from the company, but the bar in the back requires tokens that you can only earn during assignments."
+    sel "Why would you need tokens for alcohol?"
+    fel "To keep people from just avoiding work. Tragic things will happen down there, and the company doesn’t want to lose efficiency."
+    fel "So they made it so you earn tokens by collecting special plants."
+    sel "What are they looking for down there?"
+    fel "Just some plants, it is region-specific, so keep an eye on the quota."
+    "First of all, what the fuck."
+    "Second, wow, you actually have to work to pay for some booze."
+    "God."
+    sel "I’m kind of hungry."
+    sel "Is this place still open?"
+    fel "The main area closed, but the dispensers should still be operating."
+    fel "You can get a sandwich and other small foods there."
+    sel "Small for you, maybe."
+    fel "Indeed."
+    "I walk up to the vending machines and select my sandwich."
+    "But it doesn’t look like I can pay in any way. There is a scanner with a little symbol on it. "
+    sel "What am I supposed to be doing here?"
+    fel "Did you not claim your identification yet?"
+    sel "Not that I’m aware of, they kinda just let me go without giving me anything."
+    sel "Can I borrow yours?"
+    fel "Sure."
+    "I step aside. He walks up and scans something through his pocket, and the sandwich drops out of the machine. "
+    "We move over to the nearby tables, and I quickly devour my food."
+    "Felix stares off into the distance as I eat. "
+    "Wonder what he’s thinking about. Hope it isn’t about me."
+    sel "Alright, I’m done."
+    sel "Where to next?"
+    "Felix leads me down a hallway connecting to the next few rooms. He holds open a door on the side so I can look inside."
+    "It looks like a hallway filled with washing machine-sized lockers."
+    fel "This is where you gear up every day."
+    "He closes the door and walks forward to the large garage door at the end of the hall."
+    fel "And down here is the loading bay, which you’ll see tomorrow."
+    fel "First days are very crowded, so we will have to get up early."
+    fel "That’s all you need to know for now. Feel free to explore after you return from your first assignment."
+    "Right, I still gotta get my gear."
+    sel "So… I still gotta pick up my stuff, could you help me with that?"
+    "He was already walking back, but he pauses. "
+    fel "Sorry, I have things to sort in our room."
+    sel "Please? I still don’t know how things work around here."
+    fel "You go and claim your gear. It is not hard."
+    sel "I don’t know where anything is."
+    fel "Everything equipment-related is in these rooms. Go explore a little."
+    fel "If you cannot find your way around this place, you are as good as dead down in the caves."
+    "Oof. Got me there."
+    "We head our separate ways."
+    "I open some more doors and eventually find the service counter."
+    "It’s the only light around here."
+    "The worker there is on his phone."
+    "It takes him a minute to realize my presence, and I tell him my name."
+    "He picks something up from behind him and hands it to me, telling me not to lose it."
+    "It’s a hexagonal device with a glowing center."
+    "He disappears into another room, and another minute later, he wheels out a crate and tells me to find my locker."
+    "I wheel it into the room Felix showed me earlier. Luckily the lockers have names on them."
+    "The scanners on the lockers have the same symbol as the vending machine earlier."
+    "I touch the device the worker gave me to the scanner, and the door clicks open."
+    "The crate opens easily, and I start unpacking."
+    "A pickaxe."
+    "An unloaded gun. "
+    "A tablet."
+    "A lot of straps."
+    "A belt rig."
+    "I shove it all into the locker."
+    "Do they not provide protective gear?"
+    "I walk around a little further and find the store."
+    "The store clerk there keeps insisting that he is a merchant."
+    "Weirdo. "
+    "I pay for some simple gear and drop them off in my locker."
+    "On my way back to my room, I look closer at the device again."
+    "It has some cores in the center of the plate, and on the back of it are two hooks."
+    "It’s probably for clipping onto the straps. Is this the identification Felix was talking about?"
+    "I’ll find out what this is tomorrow. I’m tired."
+    "I shove it in my pockets and slowly wander the rest of the way back."
+    "…"
+    "I scan the object on the reader and the door opens, Felix is laying in his bed looking at his phone."
+    "Some of his boxes are unpacked, but most stayed where I last saw them."
+    "The trinkets from earlier are all moved onto his table."
+    "My side of the room is now filled with boxes."
+    "I open some, and they are the same wardrobe I had back home."
+    "Felix puts down his phone."
+    "He breathes a deep sigh."
+    fel "Apologies if I seemed impolite, I was concerned with a rookie being in Elite."
+    fel "But it does seem you are being screwed by the company."
+    fel "I do not believe you have bad intentions for being here."
+    sel "It’s all good, if things go right, I’ll be out of your fur soon."
+    "I go sit on my bed, the wall blocks my sight of Felix."
+    sel "You think those higher-ups have something planned for me?"
+    fel "Hmm…"
+    fel "Yes. Some of those bastards always seem to be scheming against the workers."
+    fel "But if anything does not seem right, the workers' union will step in."
+    fel "Enough of that. Get ready for bed, then lights out."
+    sel "Okay."
+    "By the time I get back from the communal bathroom, Felix is already asleep."
+    "I go turn off the light and get in bed."
+    "A lot to worry about tonight."
+    "How intense is the elite work gonna be? "
+    "Did the contract list any compensation for injuries? "
+    "Fuck, really should have read it more."
+    "Did the interview guy tell me to skip through it because he knew?"
+    "Could have sworn I was told that I’m interviewing for R&D."
+    "Too late now. I need to be awake for whatever is coming up tomorrow."
+    "Breathe in."
+    "Breathe out."
+    "Close your eyes, clear your mind."
+    "…"
+    "…"
+    "*Tink"
+    "I fall forward as whatever was keeping me upright detaches."
+    "I turn around, it seems I fell out of a person-sized pod, the only source of light in this place."
+    "As I look into the dark, surfaces start to appear."
+    "I yell into the cave, the echoes go on for a few seconds."
+    "I crawl forward."
+    "The floor is smooth and damp."
+    "There’s a wall a few meters in front of me."
+    "I feel my way around the cave."
+    "…"
+    "My exploration is interrupted by a sound."
+    "Water flowing."
+    "And it's getting exponentially louder."
+    "I try to retreat to the pod before the wave crashes into me."
+    "But I’m too far away."
+    "The water hits me and carries me down the cave. "
+    "With nothing to grab onto, the light from the pod gets farther and farther from me."
+    "The water slams me into a wall and carries me around a corner into pure darkness."
+    "Pure panic sets in as I try to keep my head above the roaring water."
+    "I try to keep my bearings by touching my feet on the floor."
+    "But then, I couldn’t feel the floor anymore."
+    "The sound of the water softens and the splashes below me echo the cave."
+    "Now I realize what was happening."
+    "I was falling."
+    "…"
+    #day 2
+    "I slowly awoke to a bright light."
+    sel "What the hell…"
+    "I’m in my bed again."
+    "Felix peeks around the room divider."
+    fel "Sorry, I forgot this switch turns on both lights. Come, you want to get there early to claim your supplies."
+    "Before I forget."
+    "I take out my phone to record that dream."
+    "…"
+    "I finish freshening up and follow Felix out to the cafeteria."
+    "We quickly grab some breakfast, it's nothing special."
+    "We seem to be slightly ahead of everyone else."
+    "People are slowly filling up the cafeteria now."
+    "We navigate to the locker room. "
+    "The few people here are wearing some variation of protective gear and mechanical things around their hips."
+    "On their front, the hexagon device covers the buckle."
+    "…"
+    "I take everything out of my locker, and Felix helps me put on the gear."
+    "Ugh, I can’t wear my skirt under the climbing straps."
+    "The shorts will probably be fine."
+    "I also grabbed my jacket. I’m not too sure if it’s going to get cold down there."
+    "The straps tighten themselves at the press of a button."
+    "Pretty cool."
+    "I clip the hexagon thing to my waist."
+    sel "Hey Felix, what are these things?"
+    "I point at the device."
+    fel "Shields, they cast an energy barrier over you."
+    fel "Everyone gets a unique design, so they double as identification for the corporation."
+    "Wow, so if I die a stupid way, people will know it’s me."
+    sel "And what’s the device on my hip?"
+    fel "That I do not know, it might be a new class."
+    fel "In the meantime, you should check the manual."
+    sel "Interesting."
+    "I grab my tablet and find said manual."
+    "It details some other classes and their gadgets."
+    "But none look like what I have."
+    "I tap around some more and read up on the elite procedures."
+    "…"
+    sel "So, where do I find what we’re doing?"
+    fel "The team application, everything will be there."
+    "He grabs my tablet and taps around."
+    fel "Here you go."
+    tab "Assignment February 1."
+    tab "Elite Team Psi"
+    tab "Quota: 750 Kgs of Paralite."
+    tab "Bonus: 25 blue pod flowers for 10 tokens."
+    tab "Payout: 10000 unit currency minimum."
+    tab "Report to pod 4."
+    sel "What is a paralite?"
+    fel "It is a green ore that crystallizes in rectangles."
+    fel "You will see when we get there."
+    sel "How long do these assignments usually take?"
+    fel "This is a pretty low-hazard area, so only a full day's work."
+    fel "Perhaps they gave us an easy one because of you."
+    sel "Hmm, alright."
+    fel "Come, let me introduce you to the team."
+    "He hoists his stuff and a cannon and starts walking."
+    "I grab my remaining things and follow."
+    "We head over to a dog and a bird talking to each other."
+    "Or I guess the bird is talking when the dog is typing on his wrist device."
+    "They are both already equipped with all their backpack and gear."
+    "Actually, that bird looks familiar…"
+    "The way the feathers are styled…"
+    "The little head tilt…"
+    sel "Alice Jannsen? Is that you?"
+    "She turns and squints at me."
+    "I was right, she looks way better than the last time we met."
+    "After half a second, her face lights up."
+    ali "Oh my god.”"
+    "She runs in for a hug."
+    "I give her a good squeeze, and she gives a little chirp."
+    "It's so good to see her so cheery again."
+    "I see her tail wag like she’s about to take off flying."
+    "Felix takes a step back because I think her tail is hitting him."
+    ali "Selina! It’s been so long, you look great."
+    ali "When did you get so pretty huh?"
+Selina:
+“Awww, stop it.”
+“It has been a few years, this thing really is magical.”
+“You look great too, good to see you so bright again!.”
+Alice:
+“Nooo…if I knew you were here, I would have tidied myself up a little more.”
+I give her face a little rub, messing her feathers up a little.
+Alice:
+“Selinaaa stop it.”
+Felix steps between us.
+Felix:
+“Ladies, I see you two know each other.”
+He waves the Shiba closer.
+Felix:
+“Selina, this is Ben.”
+“We still need to claim our bags.”
+“We will regroup by the pod.”
+Right. Forgot where I was for a second.
+Felix drags me past the other teams and to the service counter from last night.
+A dispenser chute is now there.
+Felix:
+“Before every mission, you have to claim your issued ammunition and rations.”
+“And before you ask, yes, we can get more supplies down there.”
+There are some scanners by the chute.
+Felix scans his shield, and a large backpack lands before him.
+I scan mine, my bag is a little smaller than his.
+I take a look inside, it’s stacked with magazines of ammo and rations.
+Felix clicks some of his equipment onto the bag, so I do the same.
+Man, I can’t believe I get to meet Alice again. We have so much catching up to do.
+The chance we’re both working here must be astronomically small.
+By the time I got everything checked off, there was a long line of people waiting to claim their bags.
+As we push through, I see something shine out of the corner of my vision.
+There’s a catwalk above us.	
+A sheep and Walsh from last night are up there.
+The former is looking at me.
+The moment I meet his eyes, he says something to the mink and leaves.
+Strange.
+We rejoin Alice and Ben at our assigned pod.
+Felix:
+“Let’s board.”
+He checks his tablet.
+Felix:
+“The time to reach the landing site is about 30 minutes.”
+Alice helps me climb aboard.
+The inside of the pod is fairly small.
+It’s an oval room with 4 inclined and padded seats embedded in the wall.
+We all pick our seats and secure our equipment to the floor.
+The entryway closes with 2 sets of heavy doors.
+I sit down. The plate on my back magnetizes to the chair, and I’m firmly secured in the seat.
+Alice:
+“God, I never thought this would be the place we would meet again.”
+Selina:
+“Yeah, I know, we should have set up another reunion.
+“What are we, all thirty now?”
+Alice:
+“I’m thirty-one, you youngling.”
+Selina:
+“Oh shut up, you are only a month older than me.”
+Felix:
+“Ahem.”
+“Ben has something to ask.”
+I look at the other two.
+The Shiba is typing something on his wrist.
+A robotic voice comes out of it.
+Ben:
+“How do you girls know each other?” 
+Alice:
+“Oh, we’re classmates back in secondary school.”
+“Haven’t met in person for like 10 years now, we had to stay in touch online.”
+Selina:
+“How long have you been here, Alice?”
+Alice:
+“About 4 years, time flies when you’re deep underground.”
+“How long did it take for you to get promoted?”
+Selina:
+“Well, I wasn’t really promoted per se.”
+Alice:
+“What, did you literally get hired last night?”
+Selina:
+“Actually, yeah. They took their sweet time for the interview.”
+Alice pretends to recoil in surprise.
+Selina:
+“Lucky guess.”
+Alice:
+“An interview? That’s new.”
+“I think every other worker here just got hired through a website.”
+She looks at Felix and Ben, and they both nod.
+Alice:
+“But not me though, they-”
+A loud beep interrupts her.
+Drop pod:
+“Prepare for the drop, location: Paralite deposit.”
+I brace myself.
+Drop pod:
+“3, 2, 1.”
+I feel myself lift up, the strap over my shoulder getting stiff.
+This hurts.
+The other three don’t seem to be as bothered.
+There’s no way to see outside. But the screen above the door shows a progress bar, we just about exited the station.
+Alice holds out a hand.
+I take it for comfort and we exchange a smile.
+I shut my eyes and feel myself drifting off.
+Weird, I’m not that tired…
+…
+I find myself navigating the station and trying to find a specific office.
+There it is.
+I enter the room and face the piece of shit sitting at his desk.
+???:
+“What did you do with it.”
+???:
+“Rude of you to barge in like that.”
+“If you’re talking about what I think you’re talking about…”
+“Then don’t worry, I sent it all down in a tracked pod, the files and location are saved.”
+???:
+“You’re so full of shit, no way he authorized you to do that.”
+“You could at least have told me first, do you understand the importance of it?.”
+???:
+“I got the permission using my own methods.”
+“But hey, if you want it so bad, I can get some low-lives to find it for you.”
+“Maybe you can even try out some new tech on the search.”
+???:
+“They can’t know about it, it’s too unstable for them to handle anyways.”
+“You would need a full team of Elites.”
+“And the research is not just for me, this company was formed because of it.”
+???:
+“It's your call if you want your toy back.”
+I leave and slam the door behind me.
+???:
+“God fucking damn it…”
+Drop pod:
+“Prepare for landing in 60 seconds.”
+Are we there already?
+I was hoping I could get some more rest.
+Felix:
+“Do not bite your tongue now. We are landing.”
+I recheck the tightness of the straps.
+Drop pod:
+“Contact in 3, 2, 1.”
+Gravity suddenly turned on again.
+..but five times heavier.
+My back slams my seat.
+As soon as that weight came, it went back to normal.
+The whole drop pod is now vibrating lightly.
+Alice:
+“Selina, did you pass out?”
+Selina:
+“No, I just felt really tired for some reason.”
+She gives me a skeptical, teasing look, and I give her a nudge on the shoulder.
+Selina:
+“What’s happening now?”
+Alice:
+“We reached the surface. The pod needs to drill down to the site.”
+Selina:
+“How come there’s no noise?”
+Alice:
+“Simply, there’s no air on the surface of the planet.”
+“But in a few minutes, it’s gonna get real loud.”
+“So before then. Selina, why did you end up here?”
+Selina:
+“Oh, um.”
+“I guess being a physicist got boring for me.”
+I don’t think they will take the real reason seriously.
+Something about this company suggests I’m meant to be here.
+Alice glances at the other two.
+Felix shrugs.
+Alice:
+“You really should have stayed.”
+“Newcomers usually don’t last too long in the company, being a common worker is hard enough as it is, being put into Elites on your first day will be tough...”
+“Sorry, love.”
+Selina:
+“Damn.”
+“So what was that about you?”
+Alice:
+“Hm?”
+Selina:
+“Before the drop, you were saying something about yourself.”
+Alice:
+“Oh, right.”
+“If you remember, I did off-planet geology before this, then I was offered a chance to check out this planet. The negotiations bastard made it seem like I was just surveying.”
+“And I didn’t find out until too late that I was just a standard worker. Apparently, they already sent a team down and I wasn’t needed anymore.”
+Selina:
+“That also kind of happened to me as well.”
+“I signed up for work in R&D, but the boss put me in mining.”
+Alice:
+“That’s strange. Why would the boss care about you?”
+Selina:
+“No clue, the people there also didn’t seem to care.”
+“Is there a worker union here?”
+Alice:
+“Yep, I'm one of the leaders actually. We might be able to do something about your case.”
+“I don’t think we can fight the decision to put you here since you already signed the contract, but we might be able to compensate you some other way.”
+Selina:
+“Thanks, I want this fixed.”
+Alice:
+“Aye, anything for you.” 
+“Now, you two, introduce yourselves.”
+Felix:
+“Not much to say.”
+“I am from a different planet system.”
+“I thought it would be easy to work in a mine with my physique.”
+“It pays enough for my family’s bills.”
+He is rather big. Towering over me even with my little horns.
+I have a feeling he’s hiding some other reason for being here, though.
+The drilling noise is starting to pick up.
+This company really seems to be interested in hiring anyone they can.
+Alice and I are both put into mining despite our abilities in other fields.
+This doesn’t make much sense.
+A robotic voice interrupts my thoughts. It’s Ben’s text-to-speech voice.
+Ben:
+“The pay is good, not that complicated.”
+Alice:
+“It’s not as good as it sounds.”
+“This is a dangerous place to work, and the company doesn’t care.”
+Selina:
+“So how does the union get anything done?”
+Alice:
+“We Elites have some power in this place since we are not easily replaceable compared to standard workers.”
+“But now that you’re here, we might not be so special.”
+Selina:
+“...”
+“Am I…?”
+Alice:
+“Kidding.” 
+“This whole thing probably means the company wants you for something.”
+“We can leverage that.”
+The drilling noise is getting loud now. I can barely hear what Alice is saying.
+She realizes this too and settles down.
+Felix and Ben both close their eyes and try to get comfortable.
+Alice pulls out some earbuds and starts jamming to some music.
+I sit back and zone out.
+…
+I wonder if Ben’s injury was caused by this company.
+Putting your life on the line for some decent pay doesn’t sound fun to me.
+This is not the place I would expect these guys to work. 
+Unless these guys are fighting for something.
+Alice is a leader of the union, I suppose she needs to stay to help the little guys.
+Felix is probably staying for the same reason too.
+So what will that mean for me?
+I started logging my dreams a few months ago.
+I’ve seen a lot of people die in these caves, though, without real proof, it doesn’t mean anything.
+I don’t believe in fate, no psychic vision (chapter title)
+Drop pod:
+“200 meters to the landing site.”
+The screen in the room is displaying about 36000 m below the surface.
+The drop pod door starts sliding open, but a see-through wall separates us from the outside.
+Though all you can see is a solid wall of gray stone.
+The noise is almost deafening, but I feel the vibrations are getting weaker.
+Felix looks outside. I think he notices the difference too.
+Felix:
+“BRACE YOURSELF!”
+As soon as he says that, the noise stops, and I feel the sudden drop. 
+*BOOM
+Just like that, the drop pod lands on the cave floor.
+I try to look outside.
+The dust has yet to clear, so the visibility is terrible.
+Alice stands up first.
+Alice:
+“Time to get going.”
+We all detach ourselves and run a check on all our equipment.
+Alice takes a peek at my stuff.
+Alice:
+“Damn, they decked you out with the premium stuff.”
+Selina:
+“You jealous?”
+Alice:
+“Oh, I wasn't looking at the gear.”
+Selina:
+“What?”
+Alice:
+“Nothing.”
+She looks at the device on my hip
+Alice:
+“Oh, I think you’re a new class R&D made recently.”
+“Haven’t seen you guys in action yet.”
+“All I know is that you can plug that thing into your gun or something.”
+“But don’t try it now though, don’t want any misfires in the pod.”
+Selina:
+“Neat.”
+I take out some of the magazines from my bag. The ammo inside is kind of strange-looking. They’re rectangular cartridges rather than normal bullets.
+Selina:
+“Any idea what this ammo is?”
+I don’t think anyone heard me. So I just put the magazines into my belt pouches.
+This made the backpack a more manageable weight.
+I match the magnets on the bag to my backplate, and it clicks into place.
+Let’s go.
+Alice sees that I’m done.
+She turns to the other two.
+Alice:
+“Ready or not, the wall is going down.”
+She pulls a lever next to the wall.
+The glass slides up dramatically.
+A ramp unfolds from the pod to the ground about a story below us.
+Alice points a small yellow gun outside.
+*poof
+It shoots out a flare that sticks onto a nearby wall.
+The dust has cleared, and the flare is lighting up the entire cave.
+Alice sprints and leaps off out of sight.
+The rest of us start exiting the pod one by one. 
+I step out last behind Ben.
+The air is cool and dry.
+No distinguishable smell anywhere.
+Kinda surprising that it’s so dry, considering how caves are usually made.
+But I guess different planets have different rules.
+I start walking down the ramp.
+I was right, it’s pretty chilly down here.
+The cave is very barren, with no minerals visible anywhere.
+There are some pillars scattered around.
+There isn’t any plant life around. I wonder how rare the flowers for the bonus are.
+I take a minute to reflect. No turning back now, once I get this assignment done I can try to get placed into R&D right?
+My boots touch the solid ground.
+The ramp retracts back into the pod behind me.
+A deep voice comes out of my tablet speakers.
+Mission control:
+“Elite team Psi, please check in.”
+The pod’s outer wall closes.
+Ben taps something on his tablet.
+I can’t see Alice and Felix, but their voices come over the speakers.
+Alice:
+“Right here.”
+Felix:
+“Uh-huh.”
+I respond as well.
+Selina:
+“Check.”
+Mission control:
+“All set, simple mission today, fill the quota and call the extraction.”
+Alice jogs in from around the drop pod.
+Alice:
+“Come on, the sensor shows the next area is over here.”
+Ben and I follow her.
+Felix is already mining at the wall at the far side of the cave behind the pod.
+A six-legged drone walks up next to us.
+It’s about the size of a small person.
+Selina:
+“What is this thing?”
+Alice:
+“A deposit drone with the D.E.P.T.H. system installed.”
+“Don’t ask me what it stands for, just know that it can dematerialize minerals and create ammo if we need to.”
+Selina:
+“Oh isn’t that a creation of SilaCore?”
+Alice:
+“Yeah, and this company is a subsidiary of it.”
+Selina:
+“Oh… forget I said anything.”
+Alice:
+“If you’re gonna deposit I suggest breaking the crystals down into smaller pieces before calling the drone over.”
+“And you call it by doing this.”
+She presses a button on the frame of her tablet.
+The drone walks over and sits down in front of her.
+Alice:
+“Just keep in mind it takes a while for it to intake all the materials.”
+“Don’t try to ride it, although if you lose a leg we can just strap you to its back.”
+“I’ve seen people do that before.”
+“Wasn’t a pretty sight, but the guy ended up fine.”
+Selina:
+“I hope that wasn’t an invitation.”
+Alice:
+“Nah, but I’ve heard it be used to haze new hires by non-Elites.”
+This doesn’t sound like the place to be messing around.
+Ben walks up next to Felix.
+Felix:
+“You know the procedure, the hole is dug out.”
+Ben gives him a quick thumbs-up. 
+He pulls something from his bag and stuffs it into the hole.
+After he moves out of the way, I can see it's an explosive.
+Selina:
+“They really gave the mute guy the loudest job.”
+Alice:
+“I know right? Just wait until you see his other demo tool.”
+She gives me a little tug on my shoulder.
+Alice:
+“Take cover behind this.”
+I follow her to a nearby pillar.
+She puts her back against it, avoiding the line of sight from the explosive.
+Wonder if she knows anything about Ben’s injury.
+Selina:
+“Hey, Alice.”
+“Can I ask about what happened to Ben?”
+Alice:
+“Huh?”
+Selina:
+“You know, his neck.”
+Alice:
+“About that.”
+“He’s had it since I met him.”
+Selina:
+“Is that why he can’t speak?”
+Alice:
+“I don’t think that's how neck injuries work.”
+“If you want to know about it you gotta ask him directly.”
+“I never felt the need to find out.”
+Ben and Felix walk behind a different pillar elsewhere in the cave.
+Felix:
+“DETONATING IN FIVE!”
+I brace myself.
+*BOOM*
+The air fills with dust.
+Yeesh.
+Felix and Ben’s silhouettes disappear from behind their pillar.
+I look back at Alice.
+She’s gone.
+What the.
+I spin around a few times.
+Alice:
+“Boo.”
+She jumps on my back.
+Selina:
+“Was that necessary?”
+Alice:
+“Hehe.”
+The dust has cleared from the explosion.
+There is now a pile of rocks with a small opening to the other side where Ben placed the explosive.
+Felix:
+“Hmph, I think I’m too big to fit through that.”
+Alice:
+“No worries, we can get a head start while you carve your way through.”
+Felix:
+“You think it’s good to split up?”
+Alice:
+“You have that big ass cannon of yours, you can handle yourself.”
+“It’s a pretty low-hazard area too, it’ll be fine.”
+“Selina, you wanna come with?”
+The gap is about half a meter wide. I think I can squeeze by.
+Alice:
+“I don’t doubt you can fit through there, but if you do want to, it will be nice having more muscle.”
+“Or you can stay and help Felix open up the path since the drone will have to fit through there too.”
+
+FOLLOW BEN AND ALICE
+STAY WITH FELIX
+
+FOLLOW:
+Selina:
+“I want to see what's on the other side.”
+Alice:
+“Alright, Felix, stay safe, comms if anything goes wrong.”
+Felix:
+“Yep.”
+He said that tiredly. 
+Is he going to be ok?
+Alice:
+“Let’s move.”
+Alice climbs through first.
+Ben follows next.
+Then my turn.
+My body fits through with no problems.
+Just as I land on the other side, I hear Felix start breaking away at the rocks.
+The tunnel ahead is only lit up by our flashlights.
+There’s only about enough space for my wingspan.
+Ben has already started walking.
+Alice:
+“Scanner says the next opening is a little far.”
+I take one last look back before I start walking.
+Felix will probably be fine.
+…
+The terrain is rough, so going through this will require some agility.
+Even in a probably water-carved tunnel, everything is bone dry.
+I should probably get a good view of what we are going into.
+I bring up my tablet and find the scanner tab.
+A map shows up, I can see the landing site and the silhouette of the drop pod.
+The tunnel we are in is about double the length of the landing site’s diameter.
+I scroll the screen, and the next open part of the cave is massive relative to where we came from.
+Selina:
+“Why weren’t we dropped directly into the deposit area?”
+Alice:
+“Dunno, could be an accuracy problem.”
+Selina:
+“If they can send us down to a specific cave system then they got to be able to pinpoint the landing right?”
+Alice:
+“People have complained before. As long as we can fill the quota, they don’t care where we land.”
+…
+Selina:
+“Can mute people…”
+Alice:
+“Hm?”
+My flashlight catches Ben’s ear twitch.
+Selina:
+“Nothing.”
+…
+We arrived at the end of the tunnel, instead of a wall, it just opened to the other side.
+Alice walks through and shoots another flare.
+I step through and…
+Damn.
+The cave ceiling is about 10 meters high.
+I always had this weird fear of high ceilings.
+The fear of them possibly collapsing.
+Eugh.
+Probably best to stop staring.
+There are spikes of crystals protruding from the ground.
+The odd terrain blocks the sight to the other end of the cave.
+Veins of minerals dot the immediate surrounding walls.
+Still no signs of life anywhere.
+Alice:
+“Looks like we will have to dig deeper to get the bonus.”
+“But I bet we can get almost half the required minerals here.”
+“Let’s spread out, and remember to break the minerals up, Selina.”
+Selina:
+“Got it.”
+She heads off to my right, towards a high cliff with some minerals on top.
+Alice touches the cave wall and takes a leap up. The thrusters around her hip activate for a few seconds.
+She catches a lip in the wall and hangs on for just a moment before pushing off the wall.
+The thrusters activate again to soften her fall, and she lands gracefully.
+So her thing is jump thrusters, and Ben has explosives.
+I have yet to really touch the thing around my hip.
+She notices me staring and shouts.
+Alice:
+“Stop staring. We aren’t paid by the hour.”
+“If you need anything, call me over.”
+I give her a thumbs-up and turn around.
+Ben is standing next to me, typing with the thing on his wrist. 
+Ben:
+“I don’t know what the deal with you is and why you’re here.”
+“But I’ll be keeping an eye on you.”
+Selina:
+“Huh?”
+Ben turns and walks deeper into the cave.
+I look at him in disbelief. Was that supposed to be a threat?
+You’re like 20, you don’t scare me.
+I make my way to a small vein of green crystals poking out of the floor.
+It’s completely opaque, and the crystals look like an impossible cube.
+Obviously, it can’t actually form the cube, but it looks funny either way.
+I start cracking away at it.
+It’s quite tough.
+…
+It’s been like an hour.
+The flare is still going strong.
+I’ve broken up 3 veins of minerals so far.
+I occasionally hear some loud noises from deeper into the cave.
+Felix still hasn’t caught up to us yet.
+My minerals are stacked nicely into a pile, the drone should be able to pick this up.
+Wonder what the other two are doing.
+I make my way to the other end of the cave.
+A voice comes from my tablet.
+It’s Felix, but he sounds like he’s running.
+Felix:
+“Hey, I am almost down the … tunnel, but I think something is following me.”
+“Did I say something? I meant a lot of things. Over.”
+I turn back and start running back to the entrance.
+I grab my gun and make sure it’s loaded.
+Ben and Alice show up behind me a few seconds later.
+They already have their weapons up.
+Alice has two SMGs.
+Ben has a drum-fed shotgun.
+I reach for the device on my hip and draw out a cord.
+As the machine hums to life, I plug the cord into a port on the gun.
+The gun lights up, I think that means it's good.
+Rapid stomping sounds come from the tunnel.
+Felix appears from the dark and stops next to me in our firing line.
+The drone sprints in after him.
+The noises haven’t stopped.
+Route rejoins
+
+
+STAY:
+Selina:
+“I’ll help Felix out, it’s better we split up evenly.”
+Alice:
+“Alright, stay safe, comms if anything goes wrong.”
+Felix:
+“Yep.”
+Alice climbs through first.
+Ben follows next.
+Felix:
+“Alright, the best way I see it is we just expand the breach.”
+“Follow my rhythm.”
+Selina:
+“Sounds good.”
+He grabs his pickaxe from his bag, and so do I.
+I take a deep breath.
+He strikes the rock first.
+CLANK.
+I follow.
+CLANK.
+A piece breaks in half.
+We each carry one half and throw it to the side.
+Next.
+CLANK.
+…
+20 minutes later.
+Halfway done.
+Man, how is Felix still going so strong at it?
+Selina:
+“Hey, Felix.”
+He stops after the next swing, and so do I.
+Selina:
+“How do you carry that cannon around and still be able to work?”
+Felix looks over at his weapon attached behind him.
+It has a matte black camo, with a few parts colored shiny white.
+Felix:
+“Well, the gun itself isn’t very heavy.”
+He detaches it from the arm and gives it a hefty curl.
+Felix:
+“R&D says this is made from some sort of material from this planet, somehow stronger than other materials.”
+“They did well with this new generation.”
+“Also, these exoskeleton legs nullify the weight from anything attached to the arm.”
+Selina:
+“Hmm, cool…”
+I look at my weapon, it's a sciency-looking rifle fitted with some attachments.
+It’s not even loaded right now, but I don’t think I’ll be using it today.
+Selina:
+“I noticed your pickaxe too, it has some special parts on it.”
+While mine has two picks on either side reinforced in the center, Felix’s has a pick and an axe on the other side.
+Felix:
+“Hmm?”
+He spins his blade in the air.
+Felix:
+“Yes, this thing helps with getting more impact on swings, and can also cut things in a pinch better than a regular pickaxe.”
+The axe is stained dark green.
+Wonder how many things it has slain.
+He swings it around lazily.
+Felix:
+“Let us get a drink and let’s get back to work.”
+Selina:
+“Sure.”
+He grabs his flask and takes a swig.
+There’s a scent of alcohol in the air.
+…
+Another twenty minutes pass. 
+The tunnel is now about a meter wide. The rubbles are scattered to either side.
+That wasn’t so bad, since the air is cool and dry down here, I didn’t sweat that much.
+Felix:
+“Good enough, let us move.”
+We go and retrieve our equipment laid on a nearby pillar.
+I just realized how eerily quiet it is now. Without the constant sounds of clanking, it's uncharacteristically quiet in this cave.
+The drop pod is still in the middle of the cave, sitting straight.
+Felix steps through the opening.
+Selina:
+“What’s gonna happen to the drop pod when we’re gone?”
+He helps me get through, and we start navigating through the rough terrain. 
+The drone follows.
+Felix:
+“It sits there, it comes with some equipment to scan the cave system.”
+“It gathers info on the surrounding area and feeds it back to the station.”
+“Want to hear something absurd?”
+Selina:
+“Sure.”
+Felix:
+“From what I heard, a few years ago, Mission Control was so incompetent they couldn’t report collapses on time.”
+Selina:
+“What? Are they still around?”
+Felix:
+“No idea, Mission Control all sounds the same even with different people.”
+That’s worrying.
+If the man in the sky can’t warn us, then we’re really just alone down here.
+…
+Fuck it, I’m going to ask about the alcohol.
+Selina:
+“So I smelled some alcohol coming from your drink.”
+“Is that allowed?”
+Felix:
+“...”
+Selina:
+“Felix?”
+He sighs.
+Felix:
+“I doubt it.”
+“But I only drink it to keep me calm.”
+“You don’t need to worry.”
+Selina:
+“I know we just met yesterday.”
+“But I think if I’m going to work with you, I think the guy with the big gun should stay sober.”
+Felix:
+“Do not worry about my accuracy.”
+“With enough ammo, I will hit everything eventually.”
+Selina:
+“Not what I want to hear on my first day.”
+Can’t talk more about it anyway, we finally reached the next cave.
+Alice’s flare burns bright on the high ceiling.
+Felix:
+“Look, there's the ore we’re looking for.”
+We walk to a small vein of green minerals poking out of the floor.
+It’s completely opaque, and the crystals look like an impossible cube.
+Obviously, it can’t actually form the cube, but it looks funny either way.
+Felix:
+“Let’s just clean this up, I bet they went further in and left these for us.”
+We start working in a rhythm again.
+…
+Ten minutes later we cleared all the ores in sight and piled it all for the drone to pick up.
+*tap tap
+I turn back to the tunnel.
+Selina:
+“You hear that?”
+*tap tap tap
+Felix:
+“Yes.”
+He reaches for his tablet and talks into it.
+Felix:
+“You two, there is something coming from the tunnel.”
+The tapping sounds increase in frequency.
+Felix:
+“Forget that, make that a lot of things. Over.”
+I pull out my gun and load it.
+Alice flies in immediately. After a few seconds, Ben appears from around a corner.
+They already have their weapons up.
+Alice has two SMGs.
+Ben has a drum-fed shotgun.
+I reach for the device on my hip and draw out a cord.
+As the machine hums to life, I plug the cord into a port on the gun.
+The gun lights up, I think that means it’s good.
+
+Route rejoins
+We stand about ten meters away from the entrance
+Selina:
+“Any idea what’s coming?”
+Felix:
+“This area is too barren for life.”
+“Might be something awakened by the drop pod.”
+Alice:
+“It sounds like Farlans. But they aren’t supposed to be in this region…”
+“Those creatures only spawn in hundreds. If that’s what it is, I think we can take it on.”
+“Our best bet is to hold out here. The pod is out of reach now.”
+Selina:
+“Why did mission control not say anything?”
+Alice:
+“Let’s worry about ourselves first. We can’t complain if we’re dead.”
+“This is a good choke point, we’ll be fine.
+As if my first day isn’t bad enough.
+Everyone but me seems to be able to take care of swarms. 
+I think this is a slow-firing railgun or something.
+The noises are getting really loud.
+I stare at the tunnel in terror.
+Bugs the size of a football start crawling out all around.
+Once they make visual contact, they all release a horrifying screech.
+They look vaguely like locusts without wings. Gross.
+Everyone else starts shooting, the shots echoing in the cave.
+I fire a shot into the swarm. The electric projectile pierces about five bugs.
+Maybe this is doable.
+Felix’s cannon is dealing with the majority of the bugs while the rest of us clean up.
+The wave also doesn’t seem to be slowing down.
+Every time Felix reloads, the bugs gain a bit of ground.
+Fuck fuck. We should back up.
+Everyone else is standing their ground. 
+Selina:
+“WE SHOULD BACK UP.”
+I try to scream at them, but I don’t think they can hear me.
+My gun’s lights look dimmer. I try to fire again only to have nothing shoot out.
+I only got 3 shots out of this. Is it dead already?
+I think this thing is recharging. Maybe I can juggle it with shooting normally?
+How the fuck do I detach this cord?
+I feel my hand around the gun for any buttons or releases.
+Nothing.
+Felix:
+“SELINA, COME ON.”
+Felix roars at me. His voice is somehow audible in the chaos.
+I look up to see bugs pushed up a meter out of the tunnel now. 
+I fire at a dense part of the swarm, thankfully the gun is finally charged. 
+Corpses fly up all over the place as everyone else keeps shooting.
+But the bugs just climb over everything without slowing down.
+Alice:
+“LET ME TRY SOMETHING.”
+“I’M GOING TO KITE THEM.”
+I look over, and she has run off around the swarm with a lit flare in hand. 
+Most of the bugs start crawling towards her now.
+Ben clears out the remaining approaching us with his shotgun.
+I shoot ahead to clear Alice a path.
+She jumps onto the wall and activates her thrusters to run along it.
+The bugs start crawling up the wall to catch her, but this lets Felix’s cannon be way more effective.
+Alice hops off the wall and turns around.
+I take aim at the bugs on the wall behind her.
+But as I fire… Alice leaps into my shot.
+
+End of build 1.
+
+*black screen into flashback*
+Within the next thirty seconds, the bell will ring.
+My backpack was already packed, and the teacher had already stopped teaching.
+I look around the room, my friends are also on the edge of their seats. 
+The routine race to the cafeteria is ready to commence.
+*Bell rings*
+And we’re off.
+I’m seated in the back, so I instantly slip through the back door, giving me a two-second head start.
+I turn to the long hallway and hear five distinct sets of footsteps racing after me.
+People are coming out of their classrooms now, I have to dodge and weave through these few people before everyone’s pouring out.
+I’m the first to reach the staircase down. Before I swing through the doorway, I look back to recognize only four people following. 
+Where did Alice go? Probably lost behind all the heads. 
+I go down the stairs as fast as I can, my height not letting me take double steps like the others. 
+Oh, brother, people are starting to fill the stairs. 
+The narrow stairway doesn’t let me go any faster.
+I do my best to squeeze past the people and finally make it to the first floor. 
+The moment I step through the doorway, I catch a glimpse of a nightingale running past me. 
+Oh. Alice took the other stairs.
+???:
+“GET BACK HERE.”
+“NOOOO!”
+My cry travels through the crowded hall, and Alice turns and sticks her tongue at me. 
+*fades back to the present*
+As the charge shot flew through the air, time seemed to slow down.
+Alice managed to turn her head and look at the glowing projectile.
+With the sudden fear in her eyes, in that short moment, she turns her body and attempts to shield the impending impact.
+And with a sudden blue flash, Alice crashes to the ground. 
+Felix:
+“WHAT WAS THAT?”
+Before I can make sense of what’s happening, I find myself running up to Alice.
+Ben rushes next to me and helps me pull her back to the group. 
+I grasp her shoulders.
+Selina:
+“ALICE OH MY LORD I’M SO SORRY.”
+“ARE YOU ALRIGHT?”
+She raises her hand and waves me off.
+Selina:
+“Are you hurt?”
+“I’m so sorry.”
+“I didn’t mean to do that, please say you’re ok.”
+Ben shoulders me and I snap out of it.
+Alice sits up and straightens out her arm feathers.
+Alice:
+“Jeez, calm down.”
+“I think my shield absorbed your shot, I’m fine.”
+Felix:
+“SELINA. WHATEVER YOU DID, IT KILLED BUGS.”
+Alice springs to her feet, and we look around at the dead bugs where Alice fell.
+She bursts into excitement. 
+Alice:
+“Oh my god, is that what support does?”
+“Selina, shoot me again!”
+Selina:
+“What!? Alice, no!”
+It’s too late, she is already running toward the oncoming bugs.
+Damn it Alice.
+Felix and Ben are struggling to hold the line. Guess I have no other choice.
+Alice:
+“HIT ME!”
+My rifle is already charged up. It feels wrong to aim at someone with a gun.
+But if I don’t do that again, Alice might actually get hurt.
+Alice leaps again, flying over the bugs. And I shoot at the apex of her jump.
+A blue light flashes around her, and the bugs roll over dead.
+Alice:
+“WOO!”
+“KEEP IT COMING!”
+…
+Now that the initial shock is over, cleaning up the rest of the swarm was no big deal.
+I did miss Alice a bunch of times, but the others dealt with the consequences.
+I go take a seat on some rocks, feeling the adrenaline run out.
+My body starts feeling a little numb.
+Ben and Alice are standing around the dead bugs, witnessing the drone disintegrate the corpses.
+Felix takes a seat next to me.
+Selina:
+“Man, did not need that on my first day.”
+Felix:
+“You did well. Perhaps you are fit for Elites.”
+He pats my back.
+Selina:
+“But if we hadn’t figured out what my thing did…”
+“I could have killed my friend.”
+Felix:
+“Don’t worry about that, her shield would have kept her safe.”
+“You are brave, Selina. Rushing in to help a teammate is a quality not many people here have.”
+Selina:
+“You don’t need to make me feel better… I need to lie down.”
+I move to a more open area and lie back. The floor isn’t very comfortable, but it will do.
+My backpack and gear disconnect with a simple press, and I lay them next to me.
+The drone’s noises give a nice, albeit weird, ambiance. There’s a slight rhythm to it.
+I want to sleep this away. But before I can close my eyes, Alice makes her way over.
+Alice:
+“So much for an easy assignment huh? Sorry about the false expectations.”
+Selina:
+“Alice, why are you apologizing?”
+“I’m not meant to be here. As nice as it is to see you again, I can’t stay here. I’m going to get people killed, and I’m not ready for it.”
+Alice:
+“I get it. It isn’t an easy job, throwing you in the deep end is so cruel.”
+“I can’t make you stay, but if you leave, our team will be short a person till the next season.”
+“And to be frank, I want you here with us.”
+“This planet has more than just bugs and mining, there are some really pretty locations I want you to see.”
+Selina:
+“I believe you, but what’s the point if we die getting there?”
+Alice:
+“Selina, that is an inherent risk in everything we do. What’s the point of just focusing on that.”
+“Our job is to explore uncharted areas and be the prospectors on this beautiful planet.”
+“I hate the company for scamming me out of my geology job, but this is still a great opportunity.”
+“Speaking of which, mission control.”
+She shouts something at Ben, the echo of the cave makes her words incoherent to me.
+Alice:
+“He’ll deal with that for now.”
+Selina:
+“No matter what, I think those higher-ups don’t want me with them. This whole mission control thing suggests they are deliberately trying to kill me.”
+Alice disconnects her gear and lies down with a heavy thud.
+Alice:
+“I still think they have something bigger planned for you, and it might just be a test.”
+“Equipping you with a new class? It might just be an R&D thing.”
+“Selina, please.”
+“You took care of me all those years ago, let me take care of you this time.”
+Selina:
+“...”
+She’s probably right. The whole caving thing is pretty interesting. It reminds me of this game I played as a kid.
+But back then, it was just a game and dying was just a punishment to retry. 
+In real life, one wrong step, one bad choice… I don’t want to think about every possible outcome.
+Being a little more careful is not too much to ask for, I suppose.
+Selina:
+“Fine, depending on how this assignment ends, I might stick around.”
+Alice:
+“I promise you, it’s not usually this scary.”
+She takes my hand and gives it an affirming squeeze.
+Selina:
+“...”
+Hope you’re right, Alice.
+…
+The buzzing of the drone fills the silence.
+…
+I’m kind of hungry. 
+I give Alice’s hand one more rub before sitting up.
+Selina:
+“What food did they pack us? I could go for some tofu.”
+Alice:
+“They prepare the food by species, it’s actually pretty good.”
+“Guys, come on, let's eat together.”
+She waves the other two over, and we start unpacking our food.
+…
+…
+Another night of leftover dinner.
+As unappetizing as this is, I should really eat up.
+The appointment is tomorrow.
+I’m finally getting rid of these large horns.
+A pain in the ass my entire life, I don’t get how others live like this.
+Deers shed their antlers annually, but our stupid horns are here for life.
+Lucky bastards. 
+My parents kept trying to convince me not to prune it. 
+I don’t care if it's permanent. I want it out of the way.
+I’m a grown adult now, you live off my paychecks, so you don’t get any say in this.
+If you hadn’t had me so late, we wouldn’t have to depend on just me to get by.
+We’ve had this argument so many times. Why can’t you guys just appreciate something?
+All this is just about my stupid horns. Why is this the thing you care so much about?
+Ugh.
+Just thinking about having small horns though…
+I feel a little better—just enough motivation.
+I start eating my food.
+…
+I’ll be honest, the food was just ok, but I’ve never eaten MREs before so I have no frame of reference.
+It’s kind of awkward being the only herbivore in the group, I couldn’t participate in trying out other people’s meals.
+Alice did give me some of her vegetables though, it was alright.
+She also managed to get Ben to talk more about himself.
+Sucks what’s happening to his home, not being able to be there for your friends must be tough.
+That must be pretty hard on him, so I think I can excuse his attitude for the time being.
+I’ve learned about their previous planet-wide disaster, the one back in 2234, a year before I was born.
+Apparently, no one knows why it happened then, and no one knows why it’s happening now.
+I think Silacore was the one attributed to solving the first crisis. Crazy considering they have nothing related.
+This brings up the question of if Silacore will do it again, and if Ben being here is just a coincidence.
+Maybe he owes the company something? Who knows.
+I didn’t get the chance to ask him anything else because mission control jutted in.
+Mission control:
+“Team Psi, listen up.”
+“The station’s communication bandwidth has been exceeded due to unknown reasons.”
+“We are attempting to fix it as we speak. Until then, communication between teams and the station will have to enter queue mode.”
+“I have four other teams to get to, stay sharp.”
+Alice:
+“Hey hey don’t just leave us like that.”
+“MC, what do you mean by queue mode?”
+“... Hello?”
+Felix:
+“I don’t want to think about other teams who would have had it worse than us.”
+Alice:
+“Aw nooo… Is this something I’m going to have to deal with?”
+“Ohhh… I’m really hoping there aren’t any other incidents because of this.”
+“Damn it. Let’s wrap this assignment up. I need to make it back before any commotion starts.”
+Right, Alice is a leader of the union. Honestly, I can’t see her manage to organize hundreds of angry men.
+But to be fair, I haven’t met anyone else yet, if they all have the temperament of Felix, it might not be so hard.
+If we were to believe MC’s explanation, I guess it kind of discredits the theory they are trying to get me killed by just a little.
+Ben:
+“Wonder if my messages even made it to them at all.”
+Selina:
+“I’m hoping this isn’t a normal occurrence.”
+Felix sighs, as if he’s about to shatter my world.
+Felix:
+“This has occurred before. Unfortunately.”
+“Just before I joined, there were words of a communication problem. There was a big commotion too I believe, but it was solved rather quickly.”
+“I did not think that was a real concern at the time. But there must be some extreme flaw aboard the station for this to happen twice.”
+Selina:
+“What did I get myself into…”
+Ben:
+“Alice.”
+“You need to figure this out.”
+Alice:
+“It is my job, ay?”
+Ben:
+“They need to pay for what they’re doing to us.”
+“If any other workers are as much as injured because of this, this company has to be put in the ground.”
+“I don’t believe for a moment this is a spontaneous issue.”
+Alice:
+“That’s a hard ask, I’m not really the person to be investigating this thing.”
+Selina:
+“As much as I don’t want to believe there’s malice, I do agree, this problem should not be happening to a company this large.”
+I see Ben starting to furiously type on his wrist.
+Felix:
+“Yes. Exactly my idea.”
+Ben:
+“Sorry to rain on your parade, lady, those people are evil.”
+“You can’t be this naive.”
+Selina:
+“Excuse me?”
+“What is your problem?”
+Ben:
+“There are going to be people dying because of this…”
+Selina:
+“We don’t know that.”
+Ben:
+“...and you don’t believe that this is just a ploy to thin the numbers?”
+Alice:
+“Oy oy oy, enough of that, let’s fucking move on.”
+Selina:
+“Dude, I obviously don’t want to believe that conspiracy.”
+Ben:
+“Look what they did to me. No matter I do, they won’t fix me.”
+Luke smacks Ben’s back, and his hand slips off the wrist keyboard.
+Ben:
+“They have the technology to reconstruct matter out of rocks, and they wo-khgfsxz”
+Felix:
+“I’m going to stop you here, Ben.”
+“Arguing here won’t change anything. Like Alice said, we should move on so we can contact the other teams.”
+Ben turns and walks further into the cave, but not before giving Luke an angry side eye. 
+Luke breathes a heavy sigh and goes to get the drone started on working on the minerals we mined out.
+Seeing nowhere else to go, I follow Ben’s direction deeper into the cave.
+The rest of the team follows. 
+…
+Alice starts walking alongside me.
+Alice:
+“...”
+“When did you learn how to shoot?”
+Selina:
+“Huh?”
+Alice:
+“When did you learn to shoot like that? Your accuracy was good back there.”
+Selina:
+“It’s… I did airsoft in college. That’s really about it.”
+“You might have heard about that phase, I attended tournaments and such too.”
+Alice:
+“I don’t think I did. But anyhow, that’s cool. How does it feel to shoot a real gun?”
+I take out my gun, it’s still a bit warm from the battle earlier.
+Selina:
+“It’s not what I expected. This thing is like a coilgun rather than a normal gun.”
+Alice:
+“Yeah? Let me try it.”
+Selina:
+“Sure. Uhm, how do I…”
+It’s still attached to my belt, there’s just about enough cord length for it to be shouldered by me. 
+Uhm… I just hand the gun to Alice. She awkwardly grabs it and tries to properly shoulder it, but the cord is fully taut. 
+Alice gives it a firm tug, pulling me a little closer.
+Alice:
+“Is that as long as it gets?”
+She turns and backs up right in front of me. Her feathers nearly poking me. 
+Alice:
+“Good ergonomics on this thing.”
+She points the gun around, tugging on me every time she turns.
+Alice:
+“Cool.”
+“Kind of jealous they gave you such a cool gun.”
+She turns to her left and the cord yanks me into her.
+She gives me a playful look.
+Alice:
+“Oops.”
+Selina:
+“Alice! Watch it!”
+“I don’t want to get my stuff broken on the first day. Give me it back.”
+Alice keeps her playful expression for a second as if waiting for something. She then drops the act and hands me my gun.
+Alice:
+“Chill out. Here.”
+She pouts a little.
+
