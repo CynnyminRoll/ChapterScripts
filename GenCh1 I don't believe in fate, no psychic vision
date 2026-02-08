@@ -9,6 +9,7 @@ label presplit:
 #mis Mission Control
 #qu1 ??? 1
 #qu2 ??? 2
+#qu3 ??? 3
 #sd scene transition
 #td transition
 #cd character transition
@@ -23,26 +24,26 @@ label presplit:
     scene startcave2 with td
     "Aha."
     "It’s some strange trapezoidal device."
-    "I can’t really ID it. But it has to be company tech right?"
-    "There’s a large button on the top, I guess there’s nothing to do but press it."
-    "The button pops back out, and some light emits from the slits now visible on the side of" the button.
+    "I can’t really ID it. But it has to be company tech, right?"
+    "There’s a large button on the top. I guess there’s nothing to do but press it."
+    "The button pops back out, and some light emits from the slits now visible on the side of the button."
     "Nothing else happens for a good moment."
     "Maybe this thing is a beacon of some sort?"
-    "My curiosity gets the better of me and I press the button a few more times."
+    "My curiosity gets the better of me, and I press the button a few more times."
     scene startcave3 with td
-    "A blinding light emits from the slits of the device and I fall backward onto my comrade."
+    "A blinding light emits from the slits of the device, and I fall backward."
     "For a split second, I can feel my body start to melt."
     scene black with sd
     scene interview with sd
     "I jolt awake as my head falls back, remembering that I’m waiting for the results of this interview."
     "Wow, that dream felt real, my arms tingling as if they were burning."
-    "I look around, the interviewer is still out."
+    "I look around, and the interviewer is still out."
     "The clock reads 8:30."
-    "It’s been like twenty-five minutes, do other companies take this long to make a" "decision?"
+    "It’s been like twenty-five minutes, do other companies take this long to make a decision?"
     "What was the dream about again? Oops."
-    "Should have written it down, but again, would not look good for the employer to see me" on my phone.
+    "Should have written it down, but again, it would not look good for the employer to see me on my phone."
     "I slouch back down in my seat."
-    "The air has a low hum to it. You can almost feel the machines working to keep this" "place running."
+    "The air has a low hum to it. You can almost feel the machines working to keep this place running."
     "I’ve never really been on a space station like this before."
     "From the glimpse I got from the shuttle earlier, this place is absolutely huge. "
     "Everything exists within this massive station."
